@@ -4,7 +4,7 @@
 - 📚 Estudante do 1º semestre do Tecnólogo de Análise e Desenvolvimento de Sistemas - Estácio
 - 📙 Pós-graduanda em Análise e Desenvolvimento de Programas - Faculdade Descomplica
 - 🌱 Estudando Html,Css e JavaScript
-- 📫 contate-me pelo email: ste.carvalho93@hotmail.com
+- 📫 Contate-me pelo email: ste.carvalho93@hotmail.com
 
 <div align="center">
   <a href="https://github.com/stecarvalhos">
