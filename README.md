@@ -1,6 +1,8 @@
-### Ois! Sou a Ste Carvalho 👋
+### Ois! Sou a Steffani Carvalho 👋
 
 - 🔭 Sou advogada em transição de carreira
+- 📚 Estudante do 1º semestre do Tecnólogo de Análise e Desenvolvimento de Sistemas - Estácio
+- 📙 Pós-graduanda em Análise e Desenvolvimento de Programas - Faculdade Descomplica
 - 🌱 Estudando Html,Css e JavaScript
 - 📫 contate-me pelo email: ste.carvalho93@hotmail.com
 
